@@ -1,0 +1,6 @@
+[book]
+authors = ["Chronophylos"]
+language = "en"
+multilingual = false
+src = "src"
+title = "HoI4 Guide"
