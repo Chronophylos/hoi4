@@ -9,8 +9,8 @@ Tank` and the `Flame Tank` are custom Templates.
 |----------------------------------------------------------------------|----------------------|----------------------|----------------------|------------------------|----------------------|
 | ![Engineer][engi]                                                    | ![Mechanized][mecha] | ![Mechanized][mecha] | ![Mechanized][mecha] | ![Mot. Arty][mot_arty] | ![Mechanized][mecha] |
 | ![Anti-Air][aa]                                                      | ![Mechanized][mecha] | ![Mechanized][mecha] | ![Mechanized][mecha] | ![Mot. Arty][mot_arty] | ![Mechanized][mecha] |
-| ![Recon Light Tank][recon_light] [<sub>t</sub>](recon_light_tank.md) | ![Mechanized][mecha] | ![Mechanized][mecha] | ![Mechanized][mecha] | ![Mot. Arty][mot_arty] | ![Mechanized][mecha] |
-| ![Flame Tank][flame_tank] [<sub>t</sub>](flame_tank.md)              | ![Mechanized][mecha] | ![Mechanized][mecha] | ![Mechanized][mecha] | ![Mot. Arty][mot_arty] | ![Mechanized][mecha] |
+| ![Recon Light Tank][recon_light] [<sup>t</sup>](recon_light_tank.md) | ![Mechanized][mecha] | ![Mechanized][mecha] | ![Mechanized][mecha] | ![Mot. Arty][mot_arty] | ![Mechanized][mecha] |
+| ![Flame Tank][flame_tank] [<sup>t</sup>](flame_tank.md)              | ![Mechanized][mecha] | ![Mechanized][mecha] | ![Mechanized][mecha] | ![Mot. Arty][mot_arty] | ![Mechanized][mecha] |
 | ![Logistic][logi]                                                    | ![Mechanized][mecha] | ![Mechanized][mecha] | ![Mechanized][mecha] |                        |                      |
 
 ## Anti-Tank Variant
@@ -19,8 +19,8 @@ Tank` and the `Flame Tank` are custom Templates.
 |----------------------------------------------------------------------|----------------------|----------------------|----------------------|--------------------|----------------------|
 | ![Engineer][engi]                                                    | ![Mechanized][mecha] | ![Mechanized][mecha] | ![Mechanized][mecha] | ![Mot. AT][mot_at] | ![Mechanized][mecha] |
 | ![Anti-Air][aa]                                                      | ![Mechanized][mecha] | ![Mechanized][mecha] | ![Mechanized][mecha] | ![Mot. AT][mot_at] | ![Mechanized][mecha] |
-| ![Recon Light Tank][recon_light] [<sub>t</sub>](recon_light_tank.md) | ![Mechanized][mecha] | ![Mechanized][mecha] | ![Mechanized][mecha] | ![Mot. AT][mot_at] | ![Mechanized][mecha] |
-| ![Flame Tank][flame_tank] [<sub>t</sub>](flame_tank.md)              | ![Mechanized][mecha] | ![Mechanized][mecha] | ![Mechanized][mecha] | ![Mot. AT][mot_at] | ![Mechanized][mecha] |
+| ![Recon Light Tank][recon_light] [<sup>t</sup>](recon_light_tank.md) | ![Mechanized][mecha] | ![Mechanized][mecha] | ![Mechanized][mecha] | ![Mot. AT][mot_at] | ![Mechanized][mecha] |
+| ![Flame Tank][flame_tank] [<sup>t</sup>](flame_tank.md)              | ![Mechanized][mecha] | ![Mechanized][mecha] | ![Mechanized][mecha] | ![Mot. AT][mot_at] | ![Mechanized][mecha] |
 | ![Logistic][logi]                                                    | ![Mechanized][mecha] | ![Mechanized][mecha] | ![Mechanized][mecha] |                    |                      |
 
 [flame_tank]: ../assets/unit_light_flamethrower_tank_icon.png "Light Flame Tank"
