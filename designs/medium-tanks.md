@@ -8,13 +8,9 @@ description: A collection of tank divisions and tank designs
 
 HoI4 Version 1.11
 
-{% embed url="https://i.gyazo.com/99a1d0bff004acb16cbe6a8c147007cd.png" %}
-Medium Tank Design
-{% endembed %}
+<figure><img src="https://i.gyazo.com/99a1d0bff004acb16cbe6a8c147007cd.png" alt=""><figcaption><p>Medium Tank Design</p></figcaption></figure>
 
-{% embed url="https://i.gyazo.com/fa9f9957e3b732b3e8d5ac9de3cb2241.png" %}
-Division Design
-{% endembed %}
+<figure><img src="https://i.gyazo.com/fa9f9957e3b732b3e8d5ac9de3cb2241.png" alt=""><figcaption><p>Division Template</p></figcaption></figure>
 
 ## Flame Cromwells
 
@@ -24,28 +20,14 @@ A 1940 Design. Upgrade to Nils Cromwell Design with a Flame Tank for an addition
 
 Replace Motorized with Mechanized.
 
-{% embed url="https://0x0.st/oOCF.png" %}
-Flame Tank Design
-{% endembed %}
+<figure><img src="https://0x0.st/oOCF.png" alt=""><figcaption><p>Flame Tank Design</p></figcaption></figure>
 
-{% embed url="https://0x0.st/oVri.png" %}
-Medium Tank Design
-{% endembed %}
+<figure><img src="https://0x0.st/oVri.png" alt=""><figcaption><p>Medium Tank Design</p></figcaption></figure>
 
-{% embed url="https://0x0.st/oVro.png" %}
-Division Design
-{% endembed %}
-
-{% embed url="https://0x0.st/oVrX.png" %}
-Divison with full Mobile Warfare Doctrine
-{% endembed %}
+<figure><img src="https://0x0.st/oVro.png" alt=""><figcaption><p>Division Template</p></figcaption></figure>
 
 ## Max' Tank Division
 
-{% embed url="https://0x0.st/oOCj.png" %}
-Stats
-{% endembed %}
+<figure><img src="https://0x0.st/oOCj.png" alt=""><figcaption></figcaption></figure>
 
-{% embed url="https://0x0.st/oVrB.png" %}
-Template
-{% endembed %}
+<figure><img src="https://0x0.st/oVrB.png" alt=""><figcaption><p>Template</p></figcaption></figure>
