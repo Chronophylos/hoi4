@@ -5,3 +5,4 @@
 ## Designs
 
 * [Medium Tanks](designs/medium-tanks.md)
+* [Fighter Designs](designs/fighter-designs.md)
