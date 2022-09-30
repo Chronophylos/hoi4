@@ -4,17 +4,15 @@ description: A collection of tank divisions and tank designs
 
 # Medium Tanks
 
-## Nils Cromwells
+## Version 1.11
 
-HoI4 Version 1.11
+### Nils Cromwells
 
 <figure><img src="../.gitbook/assets/med-nils_cromwell-tank.png" alt=""><figcaption><p>Medium Tank Design</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/med-nils_cromwell-template.png" alt=""><figcaption><p>Division Template</p></figcaption></figure>
 
-## Flame Cromwells
-
-HoI4 Version 1.11
+### Flame Cromwells
 
 A 1940 Design. Upgrade to Nils Cromwell Design with a Flame Tank for an additional Attack Bonus.
 
@@ -26,7 +24,7 @@ Replace Motorized with Mechanized.
 
 <figure><img src="../.gitbook/assets/med-flame_cromwell-template.png" alt=""><figcaption><p>Division Template</p></figcaption></figure>
 
-## Max' Tank Division
+### Max' Tank Division
 
 <figure><img src="../.gitbook/assets/med-max-stats.png" alt=""><figcaption><p>Stats</p></figcaption></figure>
 
