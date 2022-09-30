@@ -6,6 +6,8 @@ description: A collection of tank divisions and tank designs
 
 ## Version 1.11
 
+Should still be good for 1.12.
+
 ### Nils Cromwells
 
 <figure><img src="../.gitbook/assets/med-nils_cromwell-tank.png" alt=""><figcaption><p>Medium Tank Design</p></figcaption></figure>
