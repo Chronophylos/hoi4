@@ -4,7 +4,8 @@
 
 ## Designs
 
-* [Medium Tanks](designs/medium-tanks.md)
+* [Tanks](designs/tanks/README.md)
+  * [Medium](designs/tanks/medium-tanks.md)
 * [Aircraft](designs/aircraft/README.md)
   * [Fighter](designs/aircraft/fighter.md)
   * [CAS](designs/aircraft/cas.md)
