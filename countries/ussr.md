@@ -13,10 +13,11 @@
 9. Socialism in One Country
 10. Secure the Administration
 11. The Collectivization Process
-12. The Anti- Soviet Trotskyist Center
+12. The Anti-Soviet Trotskyist Center
 13. The Workers' Dictatorship
 14. Centralization and Discipline
 15. War Economy
-16. Revive the Stakhanovite
-17. War Heroes
-18. Patriarch of All Russia
+16. The Military Conspiracy
+17. Revive the Stakhanovite
+18. War Heroes
+19. Patriarch of All Russia
